@@ -1,0 +1,17 @@
+# Do not remove the following line, or various programs
+# that require network functionality will fail.
+127.0.0.1       localhost
+::1		localhost6.localdomain6 localhost6
+
+
+#192.168.101.61    cs-his1
+#192.168.101.62    cs-his2
+#192.168.101.63    cs-sca2
+#192.168.101.65    cs-sca1
+#192.168.101.231   cs-fes1
+#192.168.101.232   cs-fes2
+#10.144.114.121  xtcs-sca2
+#10.144.114.101  xtcs-sca1
+192.1.101.65 	cs-sca1
+192.1.101.231	cs-fes1
+192.1.101.232	cs-fes2

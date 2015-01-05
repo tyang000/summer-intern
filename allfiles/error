@@ -1,0 +1,61 @@
+(process:18987): Gdk-CRITICAL **: gdk_cursor_new_for_display: assertion `GDK_IS_DISPLAY (display)' failed
+
+(process:18987): GLib-GObject-CRITICAL **: gtype.c:2458: initialization assertion failed, use IA__g_type_init() prior to this function
+
+(process:18987): GLib-GObject-CRITICAL **: gtype.c:2458: initialization assertion failed, use IA__g_type_init() prior to this function
+
+(process:18987): GLib-GObject-CRITICAL **: gtype.c:2458: initialization assertion failed, use IA__g_type_init() prior to this function
+
+(process:18987): GLib-GObject-CRITICAL **: gtype.c:2458: initialization assertion failed, use IA__g_type_init() prior to this function
+
+(process:18987): GLib-GObject-WARNING **: cannot add interfaces to invalid (non-instantiatable) type `<invalid>'
+
+(process:18987): GLib-GObject-CRITICAL **: gtype.c:2458: initialization assertion failed, use IA__g_type_init() prior to this function
+
+(process:18987): GLib-GObject-WARNING **: cannot add interfaces to invalid (non-instantiatable) type `<invalid>'
+
+(process:18987): GLib-GObject-CRITICAL **: gtype.c:2458: initialization assertion failed, use IA__g_type_init() prior to this function
+
+(process:18987): GLib-GObject-CRITICAL **: gtype.c:2458: initialization assertion failed, use IA__g_type_init() prior to this function
+
+(process:18987): GLib-GObject-WARNING **: cannot add interfaces to invalid (non-instantiatable) type `<invalid>'
+
+(process:18987): GLib-GObject-CRITICAL **: gtype.c:2458: initialization assertion failed, use IA__g_type_init() prior to this function
+
+(process:18987): GLib-GObject-CRITICAL **: gtype.c:2458: initialization assertion failed, use IA__g_type_init() prior to this function
+
+(process:18987): GLib-GObject-CRITICAL **: gtype.c:2458: initialization         n failed, use IA__g_type_init() prior to this function
+
+(process:18987): GLib-GObject-WARNING **: cannot add interfaces to inval        instantiatable) type `<invalid>'
+
+(process:18987): GLib-GObject-CRITICAL **: gtype.c:2458: initialization         n failed, use IA__g_type_init() prior to this function
+
+(process:18987): GLib-GObject-CRITICAL **: gtype.c:2458: initialization         n failed, use IA__g_type_init() prior to this function
+
+(process:18987): GLib-GObject-WARNING **: cannot add interfaces to inval        instantiatable) type `<invalid>'
+
+(process:18987): GLib-GObject-CRITICAL **: gtype.c:2458: initialization         n failed, use IA__g_type_init() prior to this function
+
+(process:18987): GLib-GObject-WARNING **: cannot retrieve class for inva        lassed) type `<invalid>'
+Segmentation fault (core dumped)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/tmp/_MEIt3unuq/wx/_core.py:14512: UserWarning: wxPython/wxWidgets release number mismatch
+/tmp/_MEIt3unuq/Crypto/Util/number.py:57: PowmInsecureWarning: Not using mpz_powm_sec.  You should rebuild using libgmp >= 5 to avoid timing attack vulnerability.
+
